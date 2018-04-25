@@ -2,6 +2,7 @@
 
 Covers the following actions:
 
+* `edit_form_top`
 * `edit_form_after_title`
 * `edit_form_before_permalink`
 * `edit_form_after_editor`
@@ -14,7 +15,7 @@ These actions fire within the post editor form:
 
 ## Existing Usage
 
-Please [open a new issue](https://github.com/danielbachhuber/gutenberg-migration-guide/issues) to suggest examples of existing usage.
+Please [open a new issue](https://github.com/danielbachhuber/gutenberg-migration-guide/issues) to suggest additional examples of existing usage.
 
 ## Gutenberg Equivalent
 
