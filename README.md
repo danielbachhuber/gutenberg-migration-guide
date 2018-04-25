@@ -4,22 +4,22 @@ This repository documents integration points in the WordPress Classic Editor and
 
 For the full history, see [WordPress/gutenberg#4151](https://github.com/WordPress/gutenberg/issues/4151). Please [open an issue](https://github.com/danielbachhuber/gutenberg-migration-guide/issues) for questions, to suggest improvements, etc.
 
-Sections: [Actions](#actions) | [TinyMCE](#tinymce)
+Sections: [Hooks](#hooks) | [TinyMCE](#tinymce)
 
-## Actions
+## Hooks
 
-This table documents the most common actions within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
+This table documents the most common actions and filters within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
 
 Action | Still Exists? | Direct Equivalent? | Learn More
 -|-|-|-
-`edit_form_after_title` | No | None | [Reference](action-edit-form.md)
-`edit_form_before_permalink` | No | None | [Reference](action-edit-form.md)
-`edit_form_after_editor` | No | None | [Reference](action-edit-form.md)
-`media_buttons` | No | Inserter | [Reference](action-media-buttons.md)
-`post_submitbox_minor_actions` | No | None | [Reference](action-post-submitbox.md)
-`post_submitbox_misc_actions` | No | None | [Reference](action-post-submitbox.md)
-`post_submitbox_start` | No | None | [Reference](action-post-submitbox.md)
-`admin_post_thumbnail_html` | No | None | [Reference](action-admin-post-thumbnail-html.md)
+`edit_form_after_title` | No | None | [Edit Form Actions](action-edit-form.md)
+`edit_form_before_permalink` | No | None | [Edit Form Actions](action-edit-form.md)
+`edit_form_after_editor` | No | None | [Edit Form Actions](action-edit-form.md)
+`media_buttons` | No | Inserter | [Media Buttons](action-media-buttons.md)
+`post_submitbox_minor_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
+`post_submitbox_misc_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
+`post_submitbox_start` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
+`admin_post_thumbnail_html` | No | None | [Post Thumbnail Filter](action-admin-post-thumbnail-html.md)
 
 ## TinyMCE
 
