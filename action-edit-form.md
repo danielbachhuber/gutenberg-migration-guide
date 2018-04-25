@@ -10,7 +10,7 @@ Covers the following actions:
 
 These actions fire within the post editor form:
 
-<img width="810" alt="image" src="https://user-images.githubusercontent.com/36432/39273678-5aafa868-4894-11e8-8502-ebf3041e0a05.png">
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/36432/39274613-6b435ab4-4897-11e8-94f3-b845f0df0dc5.png">
 
 ## Existing Usage
 
