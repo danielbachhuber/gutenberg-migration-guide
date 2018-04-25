@@ -2,6 +2,8 @@
 
 This repository documents integration points in the WordPress Classic Editor and their Gutenberg equivalents (if such exist). Its goal is to help WordPress developers update their projects for Gutenberg compatibility.
 
+This `README.md` provides an overview to all impacted hooks (actions and filters) and TinyMCE features. Each item then has an extended document with an overview, examples of existing usage, and documentation for its Gutenberg equivalent (if any).
+
 For the full history, see [WordPress/gutenberg#4151](https://github.com/WordPress/gutenberg/issues/4151). Please [open an issue](https://github.com/danielbachhuber/gutenberg-migration-guide/issues) for questions, to suggest improvements, etc.
 
 Sections: [Hooks](#hooks) | [TinyMCE](#tinymce)
