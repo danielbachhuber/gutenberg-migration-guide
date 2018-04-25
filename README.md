@@ -8,7 +8,7 @@ Sections: [Actions](#actions) | [TinyMCE](#tinymce)
 
 ## Actions
 
-The following table documents the most common actions within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
+This table documents the most common actions within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
 
 Action | Still Exists? | Direct Equivalent? | Learn More
 -|-|-|-
@@ -23,7 +23,7 @@ Action | Still Exists? | Direct Equivalent? | Learn More
 
 ## TinyMCE
 
-The following table documents common TinyMCE customizations and whether they have direct Gutenberg equivalents.
+This table documents common TinyMCE customizations and whether they have direct Gutenberg equivalents.
 
 Customization | Direct Equivalent? | Learn More
 -|-|-
