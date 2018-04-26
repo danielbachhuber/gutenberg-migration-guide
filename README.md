@@ -19,7 +19,7 @@ Action | Still Exists? | Direct Equivalent? | Learn More
 `edit_form_after_editor` | No | None | [Edit Form Actions](action-edit-form.md)
 `enter_title_here` | Yes | N/A | 
 `write_your_story` | Yes | N/A | 
-`media_buttons` | No | Inserter | [Media Buttons](action-media-buttons.md)
+`media_buttons` | No | Block Inserter | [Media Buttons](action-media-buttons.md)
 `post_submitbox_minor_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `post_submitbox_misc_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `post_submitbox_start` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
