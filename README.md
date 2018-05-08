@@ -14,6 +14,7 @@ This table documents the most common actions and filters within the Classic Edit
 
 Action / Filter | Still Exists? | Direct Equivalent? | Learn More
 -|-|-|-
+`edit_form_top` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_after_title` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_before_permalink` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_after_editor` | No | None | [Edit Form Actions](action-edit-form.md)
