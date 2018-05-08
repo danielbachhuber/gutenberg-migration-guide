@@ -6,13 +6,13 @@ This `README.md` provides an overview to all impacted hooks (actions and filters
 
 For the full history, see [WordPress/gutenberg#4151](https://github.com/WordPress/gutenberg/issues/4151). Please [open an issue](https://github.com/danielbachhuber/gutenberg-migration-guide/issues) to suggest new hooks, usage examples, or other ideas for improvement.
 
-Sections: [Hooks](#hooks) | [TinyMCE](#tinymce)
+Sections: [Actions & Filters](#actions--filters) | [TinyMCE](#tinymce)
 
-## Hooks
+## Actions & Filters
 
 This table documents the most common actions and filters within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
 
-Action | Still Exists? | Direct Equivalent? | Learn More
+Action / Filter | Still Exists? | Direct Equivalent? | Learn More
 -|-|-|-
 `edit_form_after_title` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_before_permalink` | No | None | [Edit Form Actions](action-edit-form.md)
