@@ -31,4 +31,5 @@ This table documents common TinyMCE customizations and whether they have direct 
 
 Customization | Direct Equivalent? | Learn More
 -|-|-
-Toolbar Button | | [Reference](tinymce-toolbar-button.md)
+`dom.DOMUtils` | | [TinyMCE dom.DOMUTils](tinymce-dom-domutils.md)
+Toolbar Button | | [TinyMCE Toolbar Button](tinymce-toolbar-button.md)
