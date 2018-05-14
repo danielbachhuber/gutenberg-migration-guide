@@ -12,7 +12,7 @@ Sections: [Actions & Filters](#actions--filters) | [Features](#features) | [Tiny
 
 This table documents the most common actions and filters within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
 
-Action / Filter | Still Exists? | Direct Equivalent? | Learn More
+Action / Filter | Still Exists? | Gutenberg Equivalent? | Learn More
 -|-|-|-
 `edit_form_top` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_after_title` | No | None | [Edit Form Actions](action-edit-form.md)
@@ -30,7 +30,7 @@ Action / Filter | Still Exists? | Direct Equivalent? | Learn More
 
 This table documents common features within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
 
-Feature | Still Exists? | Direct Equivalent? | Learn More
+Feature | Still Exists? | Gutenberg Equivalent? | Learn More
 -|-|-|-
 Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
@@ -38,7 +38,7 @@ Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
 This table documents common TinyMCE customizations and whether they have direct Gutenberg equivalents.
 
-Customization | Direct Equivalent? | Learn More
+Customization | Gutenberg Equivalent? | Learn More
 -|-|-
 `dom.DOMUtils` | No | [TinyMCE dom.DOMUTils](tinymce-dom-domutils.md)
 `Editor` | No | [TinyMCE Editor](tinymce-editor.md)
