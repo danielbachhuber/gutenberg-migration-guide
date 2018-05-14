@@ -13,3 +13,8 @@ WordPress users can also toggle between one and two column layout for the editor
 ## Gutenberg Equivalent
 
 There is no Gutenberg UI for toggling meta box visibility, nor does Gutenberg have the concept of column layouts.
+
+Related issues:
+
+* [Post Settings: Let users configure metaboxes](https://github.com/WordPress/gutenberg/issues/1351).
+* [Replicate Screen Options to provide UI for toggling visibility of meta boxes](https://github.com/WordPress/gutenberg/issues/5841).
