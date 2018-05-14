@@ -6,7 +6,7 @@ This `README.md` provides an overview to all impacted hooks (actions and filters
 
 For the full history, see [WordPress/gutenberg#4151](https://github.com/WordPress/gutenberg/issues/4151). Please [open an issue](https://github.com/danielbachhuber/gutenberg-migration-guide/issues) to suggest new hooks, usage examples, or other ideas for improvement.
 
-Sections: [Actions & Filters](#actions--filters) | [TinyMCE](#tinymce)
+Sections: [Actions & Filters](#actions--filters) | [Features](#features) | [TinyMCE](#tinymce)
 
 ## Actions & Filters
 
@@ -25,6 +25,14 @@ Action / Filter | Still Exists? | Direct Equivalent? | Learn More
 `post_submitbox_misc_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `post_submitbox_start` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `admin_post_thumbnail_html` | No | None | [Post Thumbnail Filter](action-admin-post-thumbnail-html.md)
+
+## Features
+
+This table documents common features within the Classic Editor, and whether they still exist or have direct Gutenberg equivalents.
+
+Feature | Still Exists? | Direct Equivalent? | Learn More
+-|-|-|-
+Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
 ## TinyMCE
 
