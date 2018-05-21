@@ -6,7 +6,9 @@ Covers the following TinyMCE API:
 
 ## Overview
 
-TinyMCE includes an API for registering custom buttons to its toolbar. These buttons appear alongside existing TinyMCE rich formatting buttons. Custom buttons can be used to insert and programmatically manipulate post content.
+TinyMCE includes an API for registering custom buttons to its toolbar. These buttons appear alongside existing TinyMCE rich formatting buttons.
+
+Custom buttons can be used to insert and programmatically manipulate post content. They often use the [TinyMCE `Editor`](tinymce-editor.md) set of APIs.
 
 ## Existing Usage
 

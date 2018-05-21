@@ -8,11 +8,9 @@ Covers the class of editor APIs identified by [Editor](https://www.tinymce.com/d
 
 ## Overview
 
-TinyMCE's `Editor` object provides access to manipulating the TinyMCE editor instance.
+TinyMCE's `Editor` object provides access to manipulating the TinyMCE editor instance. It can be accessed globally (`tinymce.activeEditor`) and by ID (`tinymce.get('content')`).
 
-It can be accessed globally (`tinymce.activeEditor`) and by ID (`tinymce.get('content')`).
-
-Some commonly-used methods of the object include `insertContent()` and `setContent()`.
+Some commonly-used methods of the object include `insertContent()` and `setContent()`. These methods are often driven by use of a [TinyMCE Toolbar Button](tinymce-toolbar-button.md).
 
 ## Existing Usage
 
