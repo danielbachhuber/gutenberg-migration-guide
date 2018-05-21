@@ -54,3 +54,5 @@ function wpdocs_theme_add_editor_styles() {
 }
 add_action( 'enqueue_block_assets', 'wpdocs_theme_add_editor_styles' );
 ```
+
+For more information, check out "[Applying Styles With Stylesheets](https://wordpress.org/gutenberg/handbook/blocks/applying-styles-with-stylesheets/)" in the Gutenberg handbook.
