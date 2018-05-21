@@ -25,6 +25,7 @@ Action / Filter | Still Exists? | Gutenberg Equivalent? | Learn More
 `post_submitbox_misc_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `post_submitbox_start` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `admin_post_thumbnail_html` | No | None | [Post Thumbnail Filter](action-admin-post-thumbnail-html.md)
+`post_gallery` | No | None | [Post Gallery Filter](filter-post-gallery.md)
 
 ## Core Features
 
