@@ -33,6 +33,7 @@ This table documents common features within the Classic Editor, and whether they
 
 Feature | Still Exists? | Gutenberg Equivalent? | Learn More
 -|-|-|-
+Custom Post Statuses | No | None | [Custom Post Statuses](feature-custom-post-statuses.md)
 Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
 ## TinyMCE
