@@ -6,7 +6,7 @@ Covers the following filters:
 
 ## Overview
 
-This filter fires when a `[gallery]` shortcode is rendered.
+The `post_gallery` filter fires when a `[gallery]` shortcode is rendered. It's a [documented way](https://codex.wordpress.org/Plugin_API/Filter_Reference/post_gallery) of modifying gallery output.
 
 The Gutenberg Gallery Block does not fire this filter when displaying a gallery.
 
