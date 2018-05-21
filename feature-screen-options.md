@@ -16,5 +16,5 @@ There is no Gutenberg UI for toggling meta box visibility, nor does Gutenberg ha
 
 Related issues:
 
-* [Post Settings: Let users configure metaboxes](https://github.com/WordPress/gutenberg/issues/1351).
-* [Replicate Screen Options to provide UI for toggling visibility of meta boxes](https://github.com/WordPress/gutenberg/issues/5841).
+* [WordPress/gutenberg#1351 Post Settings: Let users configure metaboxes](https://github.com/WordPress/gutenberg/issues/1351).
+* [WordPress/gutenberg#5841 Replicate Screen Options to provide UI for toggling visibility of meta boxes](https://github.com/WordPress/gutenberg/issues/5841).

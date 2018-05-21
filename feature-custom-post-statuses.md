@@ -14,5 +14,5 @@ Gutenberg doesn't formally support the custom post statuses API, and no represen
 
 Related issues:
 
-* [#12706 Custom post status bugs](https://core.trac.wordpress.org/ticket/12706)
+* [WordPress#12706 Custom post status bugs](https://core.trac.wordpress.org/ticket/12706)
 * [WordPress/gutenberg#3144 Custom statuses are not supported](https://github.com/WordPress/gutenberg/issues/3144)
