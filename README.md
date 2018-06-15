@@ -36,6 +36,7 @@ This table documents common features within the Classic Editor, and whether they
 Feature | Still Exists? | Gutenberg Equivalent? | Learn More
 -|-|-|-
 Custom Post Statuses | No | None | [Custom Post Statuses](feature-custom-post-statuses.md)
+Custom Fields Metabox | No | None | [Custom Fields Metabox](feature-custom-fields-metabox.md)
 Media Tabs | No | None | [Media Tabs](feature-media-tabs.md)
 Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
