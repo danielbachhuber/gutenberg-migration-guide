@@ -21,7 +21,7 @@ Please [open a new issue](https://github.com/danielbachhuber/gutenberg-migration
 ## Gutenberg Equivalent
 
 [PostFeaturedImage](https://github.com/WordPress/gutenberg/tree/master/editor/components/post-featured-image) is a React component used to render the Post Featured Image selection tool.
-It includes a wp.hooks filter `editor.PostFeaturedImage` that enables developers to replace or extend it.
+It includes a wp.hooks filter `editor.PostFeaturedImage` (introduced in Gutenberg v3.3) that enables developers to replace or extend it.
 
 ## Examples
 Replace the contents of the panel:
