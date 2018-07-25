@@ -1,4 +1,4 @@
-# Post Thumbnail Filter
+# Post Thumbnail HTML Filter
 
 Covers the following filters:
 
