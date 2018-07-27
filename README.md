@@ -47,8 +47,16 @@ Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
 This table documents common TinyMCE customizations and whether they have direct Gutenberg equivalents.
 
-Customization | Gutenberg Equivalent? | Learn More
--|-|-
-`dom.DOMUtils` | No | [TinyMCE dom.DOMUTils](tinymce-dom-domutils.md)
-`Editor` | No | [TinyMCE Editor](tinymce-editor.md)
-Toolbar Button | No | [TinyMCE Toolbar Button](tinymce-toolbar-button.md)
+Customization | Still Exists? | Gutenberg Equivalent? | Learn More
+-|-|-|-
+`dom.DOMUtils` | No | None | [TinyMCE dom.DOMUTils](tinymce-dom-domutils.md)
+`Editor` | No | None | [TinyMCE Editor](tinymce-editor.md)
+`mce_buttons` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`mce_buttons_2` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`mce_buttons_3` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`mce_buttons_4` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`tiny_mce_before_init` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`tiny_mce_plugins` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`tiny_mce_external_plugins` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+Toolbar Button | No | None | [TinyMCE Toolbar Button](tinymce-toolbar-button.md)
+
