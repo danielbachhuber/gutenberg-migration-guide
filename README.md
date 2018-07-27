@@ -20,6 +20,7 @@ Action / Filter | Still Exists? | Gutenberg Equivalent? | Learn More
 `edit_form_after_editor` | No | None | [Edit Form Actions](action-edit-form.md)
 `enter_title_here` | Yes | N/A | 
 `write_your_story` | Yes | N/A | 
+`post_updated_messages` | No | No | [Post Updated Messages Filter](filter-post-updated-messages.md)
 `media_buttons` | No | Block Inserter | [Media Buttons](action-media-buttons.md)
 `post_submitbox_minor_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
 `post_submitbox_misc_actions` | No | None | [Post Submitbox Actions](action-post-submitbox.md)
