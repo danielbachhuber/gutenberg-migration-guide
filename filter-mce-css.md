@@ -52,7 +52,7 @@ Then, in your `functions.php` file, register the `editor-style.css` file:
 function wpdocs_theme_add_editor_styles() {
 	wp_enqueue_style( 'my-editor-stylesheet', get_stylesheet_directory_uri() . '/editor-style.css' );
 }
-add_action( 'enqueue_block_assets', 'wpdocs_theme_add_editor_styles' );
+add_action( 'enqueue_block_editor_assets', 'wpdocs_theme_add_editor_styles' );
 ```
 
 For more information, check out "[Applying Styles With Stylesheets](https://wordpress.org/gutenberg/handbook/blocks/applying-styles-with-stylesheets/)" in the Gutenberg handbook.
