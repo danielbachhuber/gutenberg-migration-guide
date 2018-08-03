@@ -29,6 +29,7 @@ Action / Filter | Still Exists? | Gutenberg Equivalent? | Learn More
 `admin_post_thumbnail_html` | No | `editor.PostFeaturedImage` (v3.3) | [Post Thumbnail HTML Filter](filter-admin-post-thumbnail-html.md)
 `admin_post_thumbnail_size` | No | `editor.PostFeaturedImage.imageSize` (v3.4) | [Post Thumbnail Size Filter](filter-admin-post-thumbnail-size.md)
 `mce_css` | No | Enqueue Stylesheet | [MCE CSS Filter](filter-mce-css.md)
+`image_send_to_editor` | No | None | [Image Send To Editor Filter](filter-image-send-to-editor.md)
 `post_gallery` | No | None | [Post Gallery Filter](filter-post-gallery.md)
 
 ## Core Features
