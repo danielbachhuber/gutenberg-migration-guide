@@ -30,4 +30,7 @@ Please [open a new issue](https://github.com/danielbachhuber/gutenberg-migration
 
 ## Gutenberg Equivalent
 
-See conversation in [WordPress/gutenberg#6648](https://github.com/WordPress/gutenberg/issues/6648) for Gutenberg equivalents.
+There isn't get an equivalent API in Gutenberg. See these issues for related conversation:
+
+* [#3688 Expose TinyMCE editor content manipulation APIs in Gutenberg](https://github.com/WordPress/gutenberg/issues/3688)
+* ~[#6648 TinyMCE editor events and transformation APIs](https://github.com/WordPress/gutenberg/issues/6648)~
