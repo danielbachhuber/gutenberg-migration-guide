@@ -58,6 +58,7 @@ Customization | Still Exists? | Gutenberg Equivalent? | Learn More
 `mce_buttons_2` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
 `mce_buttons_3` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
 `mce_buttons_4` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
+`style_formats` | Partially | N/A | [TinyMCE Style Formats](tinymce-style-formats.md)
 `tiny_mce_before_init` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
 `tiny_mce_plugins` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
 `tiny_mce_external_plugins` | Yes | N/A | [TinyMCE Filters](tinymce-filters.md)
