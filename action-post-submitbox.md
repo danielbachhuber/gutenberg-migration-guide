@@ -24,6 +24,8 @@ Please [open a new issue](https://github.com/danielbachhuber/gutenberg-migration
 
 The Post Status Info panel can be extended by the JS Plugins API. You can register a component which fills the `PluginPostStatusInfo` Slot with custom content. The slot is located right before the `Move to Trash` button.
 
+<img width="313" alt="pluginpoststatusinfo" src="https://user-images.githubusercontent.com/695201/45586177-86534280-b8f2-11e8-8e57-651bf524a55e.png">
+
 ## Example
 ```js
 const { PluginPostStatusInfo } = wp.editPost;
@@ -41,5 +43,3 @@ registerPlugin( 'my-plugin-post-status-info', {
 	render: MyPluginPostStatusInfo,
 } );
 ```
-
-<img width="313" alt="pluginpoststatusinfo" src="https://user-images.githubusercontent.com/695201/45586177-86534280-b8f2-11e8-8e57-651bf524a55e.png">
