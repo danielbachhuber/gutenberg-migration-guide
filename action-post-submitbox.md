@@ -41,3 +41,5 @@ registerPlugin( 'my-plugin-post-status-info', {
 	render: MyPluginPostStatusInfo,
 } );
 ```
+
+<img width="313" alt="pluginpoststatusinfo" src="https://user-images.githubusercontent.com/695201/45586177-86534280-b8f2-11e8-8e57-651bf524a55e.png">
