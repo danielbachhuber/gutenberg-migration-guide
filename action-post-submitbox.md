@@ -22,4 +22,22 @@ Please [open a new issue](https://github.com/danielbachhuber/gutenberg-migration
 
 ## Gutenberg Equivalent
 
-There are no Gutenberg equivalents for these actions.
+The Post Status Info panel can be extended by the JS Plugins API. You can register a component which fills the `PluginPostStatusInfo` Slot with custom content. The slot is located right before the `Move to Trash` button.
+
+## Example
+```js
+const { PluginPostStatusInfo } = wp.editPost;
+const { registerPlugin } = wp.plugins;
+
+const MyPluginPostStatusInfo = () => (
+	<PluginPostStatusInfo
+		className="my-plugin-post-status-info"
+	>
+		My post status info
+	</PluginPostStatusInfo>
+);
+
+registerPlugin( 'my-plugin-post-status-info', {
+	render: MyPluginPostStatusInfo,
+} );
+```
