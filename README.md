@@ -44,6 +44,7 @@ Editor Stylesheets | No | Enqueue Stylesheet | [Editor Stylesheets](feature-edit
 Custom Post Statuses | No | None | [Custom Post Statuses](feature-custom-post-statuses.md)
 Custom Fields Metabox | No | None | [Custom Fields Metabox](feature-custom-fields-metabox.md)
 Media Tabs | No | None | [Media Tabs](feature-media-tabs.md)
+Post Type Supports | Yes | N/A | [Post Type Supports](feature-post-type-supports.md)
 Screen Options | No | None | [Screen Options](feature-screen-options.md)
 
 ## TinyMCE
