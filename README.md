@@ -14,6 +14,9 @@ This table documents the most common actions and filters within the Classic Edit
 
 Action / Filter | Still Exists? | Gutenberg Equivalent? | Learn More
 -|-|-|-
+`default_excerpt` | Yes (GB 4.1) | N/A |
+`default_content` | Yes (GB 4.1) | N/A |
+`default_title` | Yes (GB 4.1) | N/A |
 `edit_form_top` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_after_title` | No | None | [Edit Form Actions](action-edit-form.md)
 `edit_form_before_permalink` | No | None | [Edit Form Actions](action-edit-form.md)
